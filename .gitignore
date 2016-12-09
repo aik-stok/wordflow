@@ -35,7 +35,7 @@ db/*.sqlite3
 /coverage.data
 /coverage/
 /db/*.javadb/
-/db/*.sqlite3
+/db/*.sqlite
 /doc/api/
 /doc/app/
 /doc/features.html
@@ -52,8 +52,8 @@ db/*.sqlite3
 rerun.txt
 pickle-email-*.html
 .zeus.sock
-/.Gemfile.lock
-/.bundle
+.Gemfile.lock
+.bundle
 /db/*.sqlite3
 /db/*.sqlite3-journal
 /log/*.log
